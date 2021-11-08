@@ -1,13 +1,13 @@
 ---
 title: "R Notebook"
-author: "<em>Rioba Ian</em>"
+author: "<em>19 hub</em>"
 output:
   html_document:
     df_print: paged
 ---
-<h2>student id: 00482309 </h2>
+<h2>student id: 4615180 </h2>
 
-<h1>Assignment 1</h1>
+<h1>Assignment 2</h1>
 
 
 
